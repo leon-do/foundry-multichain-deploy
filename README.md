@@ -4,7 +4,7 @@
 >
 > Only testnet multichain deployment is available. Mainnet deployment will be enabled soon!
 
-Provides `foundry` tooling for deploying contracts on multiple chains in a single ttransaction
+Provides `foundry` tooling for deploying contracts on multiple chains in a single transaction
 and providing identical address on each chain.
 See
 [ChainSafe/hardhat-plugin-multichain-deploy]("https://github.com/ChainSafe/hardhat-plugin-multichain-deploy")
